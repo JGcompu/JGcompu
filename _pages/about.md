@@ -18,6 +18,7 @@ latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+Hi there! I am Jiaxuan Guo, a fourth-year student majoring in Physics at Fudan University in China. My research interests are focused on theoretical and computational materials science, especially by means of first-principles calculations and machine learning.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
