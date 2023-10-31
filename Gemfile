@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 group :jekyll_plugins do
-    gem 'wdm', '>= 0.1.0'
+    # gem 'wdm', '>= 0.1.0
     gem 'classifier-reborn'
     gem 'jekyll'
     gem 'jekyll-archives'
@@ -25,4 +25,8 @@ end
 group :other_plugins do
     gem 'feedjira'
     gem 'httparty'
+end
+#WINDOWS Gems That don't play well with nix
+platforms :mswin do
+  gem "wdm", :group => [:development, :test]
 end
