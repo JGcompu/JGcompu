@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Fudan University</a>. 220 Handan Rd, Shanghai. jiaxuanguo20@gmail.com
+subtitle: [Fudan University](https://www.fudan.edu.cn/en/). 220 Handan Rd, Shanghai. jiaxuanguo20@gmail.com
 
 profile:
   align: right
