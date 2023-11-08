@@ -24,4 +24,4 @@ Specifically, I am interested in:
 + Twisted 2D Bilayer Materials
 + Artificial Intelligence for Science (Physics, Material Science)
 
-![Research Topics](JGcompu.github.io\RP.png)
+![Research Topics](RP.png)
