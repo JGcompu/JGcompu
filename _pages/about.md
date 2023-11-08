@@ -23,3 +23,5 @@ Specifically, I am interested in:
 + *Ab Initio* Methods for Electronic and Optical Properties of Real Materials
 + Twisted 2D Bilayer Materials
 + Artificial Intelligence for Science (Physics, Material Science)
+
+![Research Topics]("D:\Application\Screenshot 2023-11-08 154220.png")
