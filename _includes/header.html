@@ -95,7 +95,18 @@
               {%- endif -%}
               {% endfor -%}
               {%- if site.enable_darkmode %}
-
+              <!-- CV -->
+                    <li class="nav-item {% if page.title == 'CV' %}active{% endif %}">
+          	    <a class="nav-link" target="_blank" href="{{ '/assets/pdf/finalCV.pdf' | relative_url }}">CV</a>
+                    </li>
+                    {% if site.enable_darkmode %}
+                      <div class = "toggle-container">
+                        <a id = "light-toggle">
+                            <i class="fas fa-moon"></i>
+                            <i class="fas fa-sun"></i>
+                        </a>
+                      </div>
+                    {% endif %}
               <!-- Toogle theme mode -->
               <li class="toggle-container">
                 <button id="light-toggle" title="Change theme">
