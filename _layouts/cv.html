@@ -3,55 +3,6 @@ layout: default
 ---
 <!-- _layouts/cv.html -->
 {% unless site.data.resume %}
-<template>
- <div  >
-   <el-button type="primary" @click="readOnLine">预览文档</el-button>
-    <el-dialog
-        :visible="showPdf === true"
-        :append-to-body='true'
-        :modal-append-to-body='true'
-        :lock-scroll='true'
-        :destroy-on-close='true'
-        :close-on-click-modal='false'
-        :width="'80%'"
-        class="dialog-div-pre-style"
-        :before-close="closePreviewClick"
-        top="200px"
-        center>
-      <div v-if="showPdf === true" class="dialog-body-content-base-style"
-           style="justify-content: center; align-items: center">
-        <embed :src="pdfUrl" style="width: 100%; height: 800px"/>
-      </div>
-    </el-dialog>
-  </div>
-
-</template>
-<script>
-export default {
-
-  data() {
-    return {
-      showPdf: false,
-      pdfUrl: ``, // PDF文档url
-    }
-  },
-  methods: {
-
-    readOnLine( ) {
-      this.showPdf = true
-    },
-    closePreviewClick() {
-      this.showPdf = false
-    }
-  },
-
-}
-
-</script>
-<style scoped>
-
-
-
 </style>
 
 <div class="post">
