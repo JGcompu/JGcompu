@@ -27,5 +27,5 @@ Hi there! I am Jiaxuan Guo, a fourth-year student majoring in Physics at Fudan U
 ![Research Topics](RP.png){:height="60%" width="66%"}
 
 ### Experience
-#### **First-Principles Study of Time-Resolved ARPES on t-MoSe2/WS2 Bilayer**
+##### **First-Principles Study of Time-Resolved ARPES on t-MoSe2/WS2 Bilayer**
 Supervised by **Prof. Diana Qiu**
