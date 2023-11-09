@@ -39,3 +39,11 @@ May 2023 –  Present **Yale University**
 + Utilized BerkeleyGW package to conduct one-shot G0W0 calculation based on DFT ground state for MoSe2/WS2 heterostructure. Employed Bethe-Salpeter equation (BSE) approach to characterize excitonic properties (e.g. exciton binding energy and exciton wavefunction)
 + Developed custom scripts to visualize the distribution of excitons within momentum space and calculate the band-to-band transition matrix term, revealing the combined influence of these factors on both the quantity and positioning of intensity peaks observed in experimental results.
 + Conducted simulations of PE intensity in tr-ARPES experiments from the exciton level and put forward an explanation for the varying PE intensities observed in t-MoSe2/WS2 at different temperatures.
+
+### **Experience**
+**Deep Learning Approach to Novel Topological Materials**  
+Supervised by **Prof. Jing Wang**  
+May 2023 –  Present **Fudan University**  
++ Learned some machine learning (ML) methods, including Convolutional Neural Network (CNN), Support Vector Machine (SVM), HDBSCAN, and t-SNE.
++ Applied CNN algorithms to streamline the exploration of materials exhibiting notably clean Fermi surfaces, achieving an accuracy rate exceeding 90%.
++ Identified approximately 150 prospective material candidates from a pool of 2,000 entries within the 2Dmatpedia database, significantly accelerating the process of seeking novel topological materials.
