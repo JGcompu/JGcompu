@@ -28,5 +28,5 @@ Hi there! I am Jiaxuan Guo, a fourth-year student majoring in Physics at Fudan U
 
 ### **Experience**
 ##### **First-Principles Study of Time-Resolved ARPES on t-MoSe2/WS2 Bilayer**
-Supervised by **Prof. Diana Qiu**
-\\ May 2023 –  Present **Yale University**
+Supervised by **Prof. Diana Qiu**  
+May 2023 –  Present **Yale University**
