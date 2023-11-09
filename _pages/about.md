@@ -40,7 +40,6 @@ May 2023 –  Present **Yale University**
 + Developed custom scripts to visualize the distribution of excitons within momentum space and calculate the band-to-band transition matrix term, revealing the combined influence of these factors on both the quantity and positioning of intensity peaks observed in experimental results.
 + Conducted simulations of PE intensity in tr-ARPES experiments from the exciton level and put forward an explanation for the varying PE intensities observed in t-MoSe2/WS2 at different temperatures.
 
-### **Experience**
 **Deep Learning Approach to Novel Topological Materials**  
 Supervised by **Prof. Jing Wang**  
 May 2023 –  Present **Fudan University**  
