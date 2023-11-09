@@ -26,7 +26,7 @@ I've had the privilege of conducting research under the guidance of **Prof. Jing
 + Twisted 2D Bilayer Materials
 + Artificial Intelligence for Science (Physics, Material Science)
 
-![Research Topics](RP.png){:height="60%" width="66%"}
+![Research Topics](RP.png){:height="60%" width="86%"}
 
 ### **Experience**
 **First-Principles Study of Time-Resolved ARPES on t-MoSe2/WS2 Bilayer**  
