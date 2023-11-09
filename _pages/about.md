@@ -26,4 +26,4 @@ Specifically, I am interested in:
 
 ![Research Topics](RP.png){:height="60%" width="66%"}
 
-# Research Experience
+## Research Experience
