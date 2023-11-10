@@ -47,7 +47,7 @@ May 2023 –  Present **Yale University**
 
 **Deep Learning Approach to Novel Topological Materials**  
 Supervised by **Prof. Jing Wang**  
-May 2023 –  Present **Fudan University**  
+Dec. 2022 – Apr. 2023 **Fudan University**  
 + Learned some machine learning (ML) methods, including Convolutional Neural Network (CNN), Support Vector Machine (SVM), HDBSCAN, and t-SNE.
 + Applied CNN algorithms to streamline the exploration of materials exhibiting notably clean Fermi surfaces, achieving an accuracy rate exceeding 90%.
 + Identified approximately 150 prospective material candidates from a pool of 2,000 entries within the 2Dmatpedia database, significantly accelerating the process of seeking novel topological materials.
