@@ -6,7 +6,7 @@ subtitle: <a href='#'>Fudan University</a>. 220 Handan Rd, Shanghai.
 
 profile:
   align: right
-  image: 3.jpg
+  image: new.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Email:jiaxuanguo20@gmail.com</p>
