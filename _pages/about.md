@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Fudan University</a>. 220 Handan Rd, Shanghai.
+subtitle: <a href='https://www.fudan.edu.cn/en/'>Fudan University</a>. 220 Handan Rd, Shanghai.
 
 profile:
   align: right
