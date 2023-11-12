@@ -44,7 +44,7 @@ May 2023 –  Present **Yale University**
 
 **Part II**: Exciton Level Study
 + Utilized BerkeleyGW package to conduct one-shot G0W0 calculation based on DFT ground state for MoSe2/WS2 heterostructure.
-+Employed Bethe-Salpeter equation (BSE) approach to characterize excitonic properties (e.g. exciton binding energy and exciton wavefunction)
++ Employed Bethe-Salpeter equation (BSE) approach to characterize excitonic properties (e.g. exciton binding energy and exciton wavefunction)
 + Visualized the distribution of excitons within momentum space and calculate the band-to-band transition matrix term.
 + Conducted simulations of PE intensity in tr-ARPES experiments from the exciton level and put forward an explanation for the varying PE intensities observed in t-MoSe2/WS2 at different temperatures.
 
