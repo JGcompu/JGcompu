@@ -38,13 +38,14 @@ I am applying for **2024 fall** Ph.D. in physics and materials science!
 Supervised by **Prof. Diana Qiu**  
 May 2023 –  Present **Yale University**  
 **Part I**: Density Functional Theory (DFT) Level Study
-+ Utilized Quantum ESPRESSO to perform Density Functional Theory (DFT) calculations, investigating electronic band structures and k-resolved orbital projected Density of States (DOS) for the MoSe2/WS2 heterostructure with a twist angle of 60 degrees.
-+ Formulated and implemented post-processing scripts to calculate matrix elements in ARPES via the free electron final state approximation, thereby describing the intensity distribution in ARPES experiments.
-+ Discovered the interference of wavefunction originating from the upper and lower layers of the heterostructure, thus establishing a theoretical explanation for the oscillation of photoemission (PE) intensity as a function of photon energy.
++ Utilized Quantum ESPRESSO to perform Density Functional Theory (DFT) calculations, investigating band structures and projected Density of States (DOS) for the 60 degrees MoSe2/WS2 heterostructure.
++ Calculated matrix elements in ARPES via the free electron final state approximation.
++ Discovered the interference of wavefunction originating from the upper and lower layers of the heterostructure.
 
 **Part II**: Exciton Level Study
-+ Utilized BerkeleyGW package to conduct one-shot G0W0 calculation based on DFT ground state for MoSe2/WS2 heterostructure. Employed Bethe-Salpeter equation (BSE) approach to characterize excitonic properties (e.g. exciton binding energy and exciton wavefunction)
-+ Developed custom scripts to visualize the distribution of excitons within momentum space and calculate the band-to-band transition matrix term, revealing the combined influence of these factors on both the quantity and positioning of intensity peaks observed in experimental results.
++ Utilized BerkeleyGW package to conduct one-shot G0W0 calculation based on DFT ground state for MoSe2/WS2 heterostructure.
++Employed Bethe-Salpeter equation (BSE) approach to characterize excitonic properties (e.g. exciton binding energy and exciton wavefunction)
++ Visualized the distribution of excitons within momentum space and calculate the band-to-band transition matrix term.
 + Conducted simulations of PE intensity in tr-ARPES experiments from the exciton level and put forward an explanation for the varying PE intensities observed in t-MoSe2/WS2 at different temperatures.
 
 **Deep Learning Approach to Novel Topological Materials**  
