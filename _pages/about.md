@@ -31,7 +31,8 @@ I am applying for **2024 fall** Ph.D. in physics and materials science!
 
 ![Research Topics](RP.png){:height="70%" width="100%"}
 
-### **Experience** (Details seen in [CV](https://jgcompu.github.io/assets/pdf/finalCV.pdf))
+### **Experience**
+(Details seen in [CV](https://jgcompu.github.io/assets/pdf/finalCV.pdf))
 **First-Principles Study of Time-Resolved ARPES on t-MoSe2/WS2 Bilayer**  
 Supervised by **Prof. Diana Qiu**  
 May 2023 –  Present **Yale University**  
