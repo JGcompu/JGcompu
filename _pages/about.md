@@ -53,3 +53,9 @@ Dec. 2022 – Apr. 2023 **Fudan University**
 + Learned some machine learning (ML) methods, including Convolutional Neural Network (CNN), Support Vector Machine (SVM), HDBSCAN, and t-SNE.
 + Applied CNN algorithms to streamline the exploration of materials exhibiting notably clean Fermi surfaces, achieving an accuracy rate exceeding 90%.
 + Identified approximately 150 prospective material candidates from a pool of 2,000 entries within the 2Dmatpedia database, significantly accelerating the process of seeking novel topological materials.
+
+**Crystal graph convolutional neural networks for Prediction of superconductors**  
+Supervised by **Prof. Jing Wang**  
+Sept. 2023 – Present **Fudan University**  
++ Constructed a training dataset comprising 1120 CIF structure files of superconducting materials along with their corresponding transition temperatures $T_c$, and this dataset is continuously expanding.
++ Based on Atomistic Line Graph Neural Network (ALIGNN), currently enhancing the input node features and model framework to improve prediction accuracy.
