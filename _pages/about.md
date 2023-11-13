@@ -57,5 +57,5 @@ Dec. 2022 – Apr. 2023 **Fudan University**
 **Crystal graph convolutional neural networks for Prediction of superconductors**  
 Supervised by **Prof. Jing Wang**  
 Sept. 2023 – Present **Fudan University**  
-+ Constructed a training dataset comprising 1120 CIF structure files of superconducting materials along with their corresponding transition temperatures $T_c$, and this dataset is continuously expanding.
++ Constructed a training dataset comprising 1120 CIF structure files of superconducting materials along with their corresponding transition temperatures $T_c$ , and this dataset is continuously expanding.
 + Based on Atomistic Line Graph Neural Network (ALIGNN), currently enhancing the input node features and model framework to improve prediction accuracy.
