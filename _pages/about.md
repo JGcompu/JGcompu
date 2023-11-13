@@ -54,7 +54,7 @@ Dec. 2022 – Apr. 2023 **Fudan University**
 + Applied CNN algorithms to streamline the exploration of materials exhibiting notably clean Fermi surfaces, achieving an accuracy rate exceeding 90%.
 + Identified approximately 150 prospective material candidates from a pool of 2,000 entries within the 2Dmatpedia database, significantly accelerating the process of seeking novel topological materials.
 
-**Crystal graph convolutional neural networks for Prediction of superconductors**  
+**Crystal Graph Convolutional Neural Networks for Prediction of Superconductors**  
 Supervised by **Prof. Jing Wang**  
 Sept. 2023 – Present **Fudan University**  
 + Constructed a training dataset comprising 1120 CIF structure files of superconducting materials along with their corresponding transition temperatures Tc , and this dataset is continuously expanding.
