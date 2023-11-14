@@ -38,7 +38,7 @@ I am applying for **2024 fall** Ph.D. in physics and materials science!
 Supervised by **Prof. Diana Qiu**  
 May 2023 –  Present **Yale University**  
 **Part I**: Density Functional Theory (DFT) Level Study
-+ Utilized Quantum ESPRESSO to perform Density Functional Theory (DFT) calculations, investigating band structures and projected Density of States (DOS) for the 60 degrees MoSe2/WS2 heterostructure.
++ Investigated electronic band structures and k-resolved orbital projected density of states for the MoSe2/WS2 heterostructure with a twist angle of 60 degrees.
 + Calculated matrix elements in ARPES via the free electron final state approximation.
 + Discovered the interference of wavefunction originating from the upper and lower layers of the heterostructure.
 
