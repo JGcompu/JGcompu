@@ -39,13 +39,13 @@ Supervised by **Prof. Diana Qiu**
 May 2023 –  Present **Yale University**  
 **Part I**: Density Functional Theory (DFT) Level Study
 + Investigated electronic band structures and k-resolved orbital projected density of states for the MoSe2/WS2 heterostructure with a twist angle of 60 degrees.
-+ Calculated matrix elements in ARPES via the free electron final state approximation.
++ Calculated the phase and amplitude of matrix elements in ARPES via the free electron final state approximation.
 + Discovered the interference of wavefunction originating from the upper and lower layers of the heterostructure.
 
 **Part II**: Exciton Level Study
 + Utilized BerkeleyGW package to conduct one-shot G0W0 calculation based on DFT ground state for MoSe2/WS2 heterostructure.
-+ Employed Bethe-Salpeter equation (BSE) approach to characterize excitonic properties (e.g. exciton binding energy and exciton wavefunction). Visualized the distribution of excitons within momentum space and calculate the band-to-band transition matrix term.
-+ Conducted simulations of photoemission intensity in tr-ARPES experiments from the exciton level and put forward an explanation for the varying PE intensities observed in t-MoSe2/WS2 at different temperatures.
++ Employed Bethe-Salpeter equation (BSE) approach to characterize excitonic properties (e.g. exciton binding energy and exciton wavefunction). Visualized the distribution of excitons at K point within momentum space and calculated the band-to-band transition matrix term.
++ Simulated photoemission intensity in tr-ARPES experiments from the exciton level and put forward an explanation for the varying PE intensities observed in t-MoSe2/WS2 at different temperatures.
 
 **Deep Learning Approach to Novel Topological Materials**  
 Supervised by **Prof. Jing Wang**  
