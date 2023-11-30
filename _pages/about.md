@@ -38,14 +38,15 @@ I am applying for **2024 fall** Ph.D. in physics and materials science!
 Supervised by **Prof. Diana Qiu**  
 May 2023 –  Present **Yale University**  
 **Part I**: Density Functional Theory (DFT) Level Study
-+ Investigated electronic band structures and k-resolved orbital projected density of states for the MoSe2/WS2 heterostructure with a twist angle of 60 degrees.
-+ Calculated the phase and amplitude of matrix elements in ARPES via the free electron final state approximation.
-+ Discovered the interference of wavefunction originating from the upper and lower layers of the heterostructure.
++ Employed the Quantum ESPRESSO package to analyze electronic orbital-projected band structures, wavefunctions, and density of states (DOS) of the twisted MoSe2/WS2 heterostructure.
++ Developed a theoretical model to predict the oscillation period resulting from the interference between electrons in the top and bottom layers.
++ Computed the K point matrix elements in ARPES via the free electron approximation, thereby simulating the photoemission (PE) intensity and validating the theoretical model.
 
 **Part II**: Exciton Level Study
-+ Utilized BerkeleyGW package to conduct one-shot G0W0 calculation based on DFT ground state for MoSe2/WS2 heterostructure.
-+ Employed Bethe-Salpeter equation (BSE) approach to characterize excitonic properties (e.g. exciton binding energy and exciton wavefunction). Visualized the distribution of excitons at K point within momentum space and calculated the band-to-band transition matrix term.
-+ Simulated photoemission intensity in tr-ARPES experiments from the exciton level and put forward an explanation for the varying PE intensities observed in t-MoSe2/WS2 at different temperatures.
++ Utilized the BerkeleyGW package to perform a one-shot G0W0 calculation and applied the Bethe-Salpeter equation (BSE) approach to characterize excitonic properties, including exciton binding energy and exciton wavefunction.
++ Developed scripts to visualize the distribution of excitons within momentum space and computed the band-to-band transition matrix term (no free electron approximation) at each k-point.
++ Simulated the PE intensity from the exciton level and put forward an explanation for the oscillations observed in the experiment
++ Discovered discrepancies between experimental results and literature regarding the band alignment, providing a starting point for exploring the accurate exciton structure in this material.
 
 **Deep Learning Approach to Novel Topological Materials**  
 Supervised by **Prof. Jing Wang**  
