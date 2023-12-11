@@ -46,7 +46,7 @@ May 2023 –  Present **Yale University**
 + Utilized the BerkeleyGW package to perform a one-shot G0W0 calculation and applied the Bethe-Salpeter equation (BSE) approach to characterize excitonic properties, including exciton binding energy and exciton wavefunction.
 + Developed scripts to visualize the distribution of excitons within momentum space and computed the band-to-band transition matrix term (no free electron approximation) at each k-point.
 + Simulated the PE intensity from the exciton level and put forward an explanation for the oscillations observed in the experiment
-+ Discovered discrepancies between experimental results and literature regarding the band alignment, providing a starting point for exploring the accurate exciton structure in this material.
++ Discovered discrepancies between experimental results and literature regarding the band alignment, challenging the computational accuracy of prior research on MoSe2/WS2 heterostructure.
 
 **Deep Learning Approach to Novel Topological Materials**  
 Supervised by **Prof. Jing Wang**  
