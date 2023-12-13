@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 Hi there! I am Jiaxuan Guo, a fourth-year student majoring in Physics at Fudan University in China. My research interests lie in computational physics and materials science, especially by means of **first-principles calculations** and **machine learning**.  
 
-Under the guidance of **Prof. Jing Wang** at **Fudan University**, I conducted research on the utilization of deep learning techniques for the discovery of topological and superconducting materials. Additionally, I worked under the supervision of **Prof. Diana Qiu** at **Yale University**, where I employed first-principles calculations to investigate the behavior of excitons in 2D moiré heterostructures.
+Under the guidance of **Prof. Jing Wang** at **Fudan University**, I conducted research on the utilization of deep learning techniques for the discovery of topological and superconducting materials. Additionally, I worked under the supervision of **Prof. Diana Qiu** at **Yale University**, where I employed first-principles calculations to investigate the behavior of excitons in 2D twisted heterostructures.
 
 I am applying for **2024 fall** Ph.D. in physics and materials science!
 
