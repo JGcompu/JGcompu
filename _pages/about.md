@@ -6,7 +6,7 @@ subtitle: <a href='https://www.fudan.edu.cn/en/'>Fudan University</a>. 220 Handa
 
 profile:
   align: right
-  image: new.jpg
+  image: new_photo.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Email:jiaxuanguo20@gmail.com</p>
